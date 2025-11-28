@@ -48,7 +48,7 @@ A tiered AI research assistant that combines multiple language models to conduct
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/synth-mind-ai.git
+git clone https://github.com/kunal51107/synth-mind-ai.git
 cd synth-mind-ai
 ```
 
@@ -104,7 +104,7 @@ The app uses a tiered model approach optimized for cost and performance:
 
 You can modify model selection in the `init_agents()` function.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 **Missing API Keys Error**
 - Ensure `.env` file exists in the root directory
